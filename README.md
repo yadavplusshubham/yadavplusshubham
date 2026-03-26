@@ -13,12 +13,15 @@
 - 📈 Delivered **$600K+ incremental GMV** and **5,000+ leads/month** across client portfolios
 - 🏪 Re-engineered **26 storefronts**, lifting avg checkout conversion from **1.8% → 3.1%**
 - 🤝 Currently **Senior Web Designer @ Guidecraft USA** — built their Shopify Plus B2B channel from scratch
-- 🚀 Founder of **[GoldenWebDigital](https://goldenwebdigital.com)** — end-to-end Shopify & digital marketing agency
 - 📍 Based in **Jaipur, Rajasthan, India**
 
 ---
 
 ### 🛠️ Tech Stack
+<p align="center">
+  <a href="https://shopify.com">![Static Badge](https://img.shields.io/badge/Shopify-green)</a>
+  <a href="https://wordpress.org"> ![Static Badge](https://img.shields.io/badge/Wordpress-gray) </a>
+</p>
 
 **Shopify & E-Commerce**
 `Liquid` `Shopify Plus` `Shopify Flow` `Custom Theme Dev` `Custom App Dev` `B2B Portals`
