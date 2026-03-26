@@ -19,8 +19,14 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <a href="https://shopify.com">![Static Badge](https://img.shields.io/badge/Shopify-green)</a>
-  <a href="https://wordpress.org"> ![Static Badge](https://img.shields.io/badge/Wordpress-gray) </a>
+  <a href="https://shopify.com"><img alt="Static Badge" src="https://img.shields.io/badge/Shopify-green">
+</a>
+  <a href="https://wordpress.org"> <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-gray">
+ </a>
+  <a href="https://figma.com"><img alt="Static Badge" src="https://img.shields.io/badge/Figma-purple">
+</a>
+  <a href="https://webflow.com"><img alt="Static Badge" src="https://img.shields.io/badge/Webflow-blue">
+</a>
 </p>
 
 **Shopify & E-Commerce**
